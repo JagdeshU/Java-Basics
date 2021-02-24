@@ -1,0 +1,14 @@
+
+R
+java:S1611"5Remove the parentheses around the "element" parameter(®÷ƒû8’¥Å™ı.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(óèİ×8­Ä™ı.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¬ĞË‹ùÿÿÿÿ8’ÃÅ™ı.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(á„è²8 ¹Ç™ı.
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ş–ûñüÿÿÿÿ
+I
+java:S1612",Replace this lambda with a method reference.(®÷ƒû8¼ÙÅ™ı.
+I
+java:S1602",Remove useless curly braces around statement(®÷ƒû8’ÃÅ™ı.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(á„è²8À¥Â™ı.
+i	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(”Ì‚›8‹ø¼™ı.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(á„è²8Ù¯Ã™ı.

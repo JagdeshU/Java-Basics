@@ -1,0 +1,11 @@
+
+J
+java:S1604"(Make this anonymous inner class a lambda(ĞˆÓ˜ûÿÿÿÿ8¤‹Ó˜ı.
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(§ÂÁå
+n	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÛÌÚ±ùÿÿÿÿ8ª¡Å˜ı.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(”Æà‹şÿÿÿÿ8ÏÅØ˜ı.
+}
+java:S1217"`Call the method Thread.start() to execute the content of the run() method in a dedicated thread.(Êâ†‹8Ş¦Ü˜ı.
+}
+java:S1217"`Call the method Thread.start() to execute the content of the run() method in a dedicated thread.(§£äã8¢Ô˜ı.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ıüö¼8şÈÖ˜ı.
