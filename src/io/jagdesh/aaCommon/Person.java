@@ -1,4 +1,4 @@
-package io.jagdesh.common;
+package io.jagdesh.aaCommon;
 
 public class Person{
 

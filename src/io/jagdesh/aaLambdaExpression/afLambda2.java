@@ -1,6 +1,6 @@
 package io.jagdesh.aaLambdaExpression;
 
-import io.jagdesh.common.Person;
+import io.jagdesh.aaCommon.Person;
 
 import java.util.Arrays;
 import java.util.Collections;
