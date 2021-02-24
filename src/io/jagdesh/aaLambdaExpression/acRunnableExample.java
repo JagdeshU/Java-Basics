@@ -1,6 +1,6 @@
 package io.jagdesh.aaLambdaExpression;
 
-public class adRunnableExample {
+public class acRunnableExample {
 
     public static void main(String[] args) {
 

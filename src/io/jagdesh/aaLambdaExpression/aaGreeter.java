@@ -1,9 +1,15 @@
 package io.jagdesh.aaLambdaExpression;
 
+
+@FunctionalInterface
+interface Greeting{
+    public void perform();
+}
+
 public class aaGreeter {
 
     //  greet function to execute the action
-    public void greet(abGreeting greeting){
+    public void greet(Greeting greeting){
         greeting.perform();
     }
 
@@ -11,7 +17,7 @@ public class aaGreeter {
 
         aaGreeter greeter = new aaGreeter();
 
-        abGreeting innerClassGreeting = new abGreeting() {
+        Greeting innerClassGreeting = new Greeting() {
 
             @Override
             public void perform() {
@@ -31,3 +37,4 @@ public class aaGreeter {
     }
 
 }
+

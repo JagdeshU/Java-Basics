@@ -6,7 +6,7 @@ import java.util.Arrays;
 import java.util.Collections;
 import java.util.List;
 
-public class afLambda2 {
+public class aeLambda2 {
 
     //  an interface
     interface Condition{

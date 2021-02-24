@@ -3,7 +3,7 @@ package io.jagdesh.aaLambdaExpression;
 import java.util.ArrayList;
 import java.util.List;
 
-public class acLambda1 {
+public class abLambda1 {
 
     public static void main(String[] args) {
 

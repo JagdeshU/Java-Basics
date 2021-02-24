@@ -1,6 +1,6 @@
 package io.jagdesh.aaLambdaExpression;
 
-public class aeTypeInferenceExample {
+public class adTypeInferenceExample {
 
     interface StringLengthLambda{
         int getLength(String s);
